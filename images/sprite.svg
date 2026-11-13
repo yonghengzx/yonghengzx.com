@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- =====================================================================
+     Endlesshine Co., Limited — shared SVG sprite  [Reuse-E]
+     Icons: viewBox 0 0 24 24 (stroke based, currentColor)
+     Mascots: viewBox 0 0 64 64 (friendly, rounded)
+     Reference: <svg><use href="#icon-id"></use></svg>
+     ===================================================================== -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none" aria-hidden="true" focusable="false">
+  <defs>
+    <style>
+      .i { fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+      .i-fill { fill: currentColor; stroke: none; }
+      .i-accent { fill: none; stroke: #e01b2e; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <!-- ============ ICONS ============ -->
+  <symbol id="logo" viewBox="0 0 24 24">
+    <circle class="i" cx="12" cy="12" r="9.2" />
+    <path class="i" d="M8 8.2h8M8 12h5.6M8 15.8h8" />
+    <circle class="i-accent" cx="16.4" cy="12" r="1.5" />
+  </symbol>
+
+  <symbol id="menu" viewBox="0 0 24 24">
+    <path class="i" d="M4 7h16M4 12h16M4 17h16" />
+  </symbol>
+
+  <symbol id="close" viewBox="0 0 24 24">
+    <path class="i" d="M6 6l12 12M18 6L6 18" />
+  </symbol>
+
+  <symbol id="arrow-right" viewBox="0 0 24 24">
+    <path class="i" d="M4 12h15" />
+    <path class="i" d="M13 6l6 6-6 6" />
+  </symbol>
+
+  <symbol id="arrow-up" viewBox="0 0 24 24">
+    <path class="i" d="M12 19V5" />
+    <path class="i" d="M6 11l6-6 6 6" />
+  </symbol>
+
+  <symbol id="mail" viewBox="0 0 24 24">
+    <rect class="i" x="3" y="5.5" width="18" height="13" rx="2" />
+    <path class="i" d="M3.6 7l8.4 6 8.4-6" />
+  </symbol>
+
+  <symbol id="phone" viewBox="0 0 24 24">
+    <path class="i" d="M7.2 3.5h2.6l1.6 4-2 1.4a11.4 11.4 0 0 0 5.2 5.2l1.4-2 4 1.6v2.6a2 2 0 0 1-2.2 2A16.2 16.2 0 0 1 5.2 5.7a2 2 0 0 1 2-2.2z" />
+  </symbol>
+
+  <symbol id="map-pin" viewBox="0 0 24 24">
+    <path class="i" d="M12 21s7-6.1 7-11a7 7 0 1 0-14 0c0 4.9 7 11 7 11z" />
+    <circle class="i" cx="12" cy="10" r="2.6" />
+  </symbol>
+
+  <symbol id="globe" viewBox="0 0 24 24">
+    <circle class="i" cx="12" cy="12" r="9" />
+    <path class="i" d="M3 12h18" />
+    <path class="i" d="M12 3c2.6 2.6 2.6 15 0 18M12 3c-2.6 2.6-2.6 15 0 18" />
+  </symbol>
+
+  <symbol id="chart" viewBox="0 0 24 24">
+    <path class="i" d="M4 20h16" />
+    <path class="i" d="M7 20v-6M12 20V6M17 20v-9" />
+  </symbol>
+
+  <symbol id="cart" viewBox="0 0 24 24">
+    <path class="i" d="M3 4h2.4l2.2 11h9.8l2-7.5H6.2" />
+    <circle class="i" cx="9.4" cy="19" r="1.6" />
+    <circle class="i" cx="16.6" cy="19" r="1.6" />
+  </symbol>
+
+  <symbol id="truck" viewBox="0 0 24 24">
+    <path class="i" d="M2.8 6.5h10.4v9H2.8z" />
+    <path class="i" d="M13.2 9.8h3.9l3.1 3v2.7h-7z" />
+    <circle class="i" cx="7" cy="18" r="1.7" />
+    <circle class="i" cx="17" cy="18" r="1.7" />
+  </symbol>
+
+  <symbol id="shield" viewBox="0 0 24 24">
+    <path class="i" d="M12 3l7 2.6v5.7c0 4.4-3 8.2-7 9.7-4-1.5-7-5.3-7-9.7V5.6z" />
+    <path class="i" d="M9 12.2l2.1 2.1L15.3 10" />
+  </symbol>
+
+  <symbol id="star" viewBox="0 0 24 24">
+    <path class="i" d="M12 3.6l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 17l-5.3 2.8 1.1-5.9L3.5 9.8l5.9-.8z" />
+  </symbol>
+
+  <symbol id="check" viewBox="0 0 24 24">
+    <path class="i" d="M4.5 12.5l5 5 10-11" />
+  </symbol>
+
+  <symbol id="play" viewBox="0 0 24 24">
+    <path class="i-fill" d="M7 4.8l12 7.2-12 7.2z" />
+  </symbol>
+
+  <symbol id="download" viewBox="0 0 24 24">
+    <path class="i" d="M12 3.6v11.2" />
+    <path class="i" d="M7.4 10.4L12 15l4.6-4.6" />
+    <path class="i" d="M4.4 18.6h15.2" />
+  </symbol>
+
+  <symbol id="apple" viewBox="0 0 24 24">
+    <path class="i-fill" d="M16.4 12.6c0-2 1.6-3 1.7-3.1-.9-1.4-2.4-1.5-2.9-1.6-1.2-.1-2.4.7-3 .7-.6 0-1.6-.7-2.6-.7-1.3 0-2.6.8-3.3 2-1.4 2.4-.4 6 1 8 .7 1 1.5 2.1 2.5 2 1-.1 1.4-.6 2.6-.6s1.5.6 2.6.6 1.7-1 2.4-1.9c.8-1.1 1.1-2.1 1.1-2.2-.1 0-2.1-.8-2.1-3.2zM14.3 6.6c.6-.7 1-1.6.9-2.6-.9 0-1.9.6-2.5 1.3-.5.6-1 1.6-.8 2.5 1 .1 2-.5 2.4-1.2z" />
+  </symbol>
+
+  <symbol id="google-play" viewBox="0 0 24 24">
+    <path class="i-fill" d="M3.4 2.6c-.3.3-.4.8-.4 1.4v16c0 .6.1 1.1.4 1.4l8.9-9.4z" />
+    <path class="i-fill" d="M16.1 8.6l-3.4-3.4-8.9 8.9 8.9 8.9 3.4-3.4c.9-.6.9-1.6 0-2.2z" opacity=".72" />
+    <path class="i-fill" d="M16.1 8.6l3.5-2c1.1-.6 2.1-.4 2.5.5.4.9 0 1.8-1 2.4l-3.6 2.1z" opacity=".9" />
+    <path class="i-fill" d="M16.1 18.9l-3.5-2.1-8.9 8.9 8.9 8.9 3.5-2c1.1-.6 1.1-1.6 0-2.2z" opacity=".55" />
+  </symbol>
+
+  <symbol id="mobile-app" viewBox="0 0 24 24">
+    <rect class="i" x="6.5" y="2.4" width="11" height="19.2" rx="2.6" />
+    <path class="i" d="M10.6 4.8h2.8" />
+    <circle class="i" cx="12" cy="18.4" r="1.1" />
+  </symbol>
+
+  <symbol id="settings" viewBox="0 0 24 24">
+    <circle class="i" cx="12" cy="12" r="3.1" />
+    <path class="i" d="M12 2.8l1.4 2.4 2.7-.5.5 2.7 2.4 1.4-1.3 2.4 1.3 2.4-2.4 1.4-.5 2.7-2.7-.5L12 21.2l-1.4-2.4-2.7.5-.5-2.7-2.4-1.4L6.3 12 5 9.6l2.4-1.4.5-2.7 2.7.5z" />
+  </symbol>
+
+  <symbol id="users" viewBox="0 0 24 24">
+    <circle class="i" cx="9.2" cy="8.4" r="3.4" />
+    <path class="i" d="M3.4 19.6c0-3.2 2.6-5.4 5.8-5.4s5.8 2.2 5.8 5.4" />
+    <path class="i" d="M16.2 5.6a3.4 3.4 0 010 6.6M17.6 14.6c2 .7 3.4 2.4 3.4 5" />
+  </symbol>
+
+  <symbol id="briefcase" viewBox="0 0 24 24">
+    <rect class="i" x="2.8" y="7" width="18.4" height="13" rx="2.2" />
+    <path class="i" d="M8.6 7V5.4a2 2 0 012-2h2.8a2 2 0 012 2V7" />
+    <path class="i" d="M2.8 12.6h18.4" />
+  </symbol>
+
+  <symbol id="layers" viewBox="0 0 24 24">
+    <path class="i" d="M12 3.2L2.8 7.6 12 12l9.2-4.4z" />
+    <path class="i" d="M2.8 12.4L12 16.8l9.2-4.4" />
+    <path class="i" d="M2.8 16.8L12 21.2l9.2-4.4" />
+  </symbol>
+
+  <!-- ============ MASCOTS (viewBox 0 0 64 64) ============ -->
+  <symbol id="cat" viewBox="0 0 64 64">
+    <path fill="#e01b2e" d="M14 22L12 8l12 8z" />
+    <path fill="#e01b2e" d="M50 22l2-14-12 8z" />
+    <path fill="#ffd166" d="M16.6 21.4L15.4 12.6l7.4 5.2z" />
+    <path fill="#ffd166" d="M47.4 21.4l1.2-8.8-7.4 5.2z" />
+    <circle cx="32" cy="33" r="20" fill="#f6b93b" />
+    <circle cx="25" cy="31" r="3.1" fill="#2b2118" />
+    <circle cx="39" cy="31" r="3.1" fill="#2b2118" />
+    <circle cx="26.1" cy="29.9" r="1.05" fill="#fff" />
+    <circle cx="40.1" cy="29.9" r="1.05" fill="#fff" />
+    <path fill="#c4802a" d="M32 37.5l3.1 2.6-3.1 2.6-3.1-2.6z" />
+    <path fill="none" stroke="#2b2118" stroke-width="1.6" stroke-linecap="round" d="M32 42.7c-1.4 1.9-4.4 1.9-5.6 0M32 42.7c1.4 1.9 4.4 1.9 5.6 0" />
+    <path fill="none" stroke="#c4802a" stroke-width="1.5" stroke-linecap="round" d="M22 38.5h-7M22 42h-7M42 38.5h7M42 42h7" />
+  </symbol>
+
+  <symbol id="dog" viewBox="0 0 64 64">
+    <ellipse cx="13" cy="28" rx="7" ry="13" fill="#8d6e63" />
+    <ellipse cx="51" cy="28" rx="7" ry="13" fill="#8d6e63" />
+    <circle cx="32" cy="32" r="19" fill="#c49a6c" />
+    <circle cx="25" cy="29" r="3.2" fill="#33261d" />
+    <circle cx="39" cy="29" r="3.2" fill="#33261d" />
+    <circle cx="26.2" cy="27.8" r="1.1" fill="#fff" />
+    <circle cx="40.2" cy="27.8" r="1.1" fill="#fff" />
+    <ellipse cx="32" cy="40" rx="5.4" ry="4.2" fill="#3c2b20" />
+    <path fill="none" stroke="#3c2b20" stroke-width="1.7" stroke-linecap="round" d="M32 44.2v3.4M32 47.6c-1.8 2-4.8 1.6-5.8-.4M32 47.6c1.8 2 4.8 1.6 5.8-.4" />
+    <ellipse cx="17" cy="37" rx="4" ry="2.6" fill="#e08a8a" opacity=".65" />
+    <ellipse cx="47" cy="37" rx="4" ry="2.6" fill="#e08a8a" opacity=".65" />
+  </symbol>
+
+  <symbol id="fox" viewBox="0 0 64 64">
+    <path fill="#e8662a" d="M12 24L10 6l16 9z" />
+    <path fill="#e8662a" d="M52 24l2-18-16 9z" />
+    <path fill="#4a2a18" d="M15 22.4L13.6 11l9.4 6.2z" />
+    <path fill="#4a2a18" d="M49 22.4L50.4 11L41 17.2z" />
+    <path fill="#e8662a" d="M32 8c12.6 0 21 9 21 21S44.6 52 32 52 11 41 11 29 19.4 8 32 8z" />
+    <path fill="#fdf3e7" d="M32 30c8 0 13 5 13 12s-6 10-13 10-13-3-13-10 5-12 13-12z" />
+    <ellipse cx="24" cy="26" rx="3" ry="3.4" fill="#2f1c10" />
+    <ellipse cx="40" cy="26" rx="3" ry="3.4" fill="#2f1c10" />
+    <circle cx="25.1" cy="24.9" r="1" fill="#fff" />
+    <circle cx="41.1" cy="24.9" r="1" fill="#fff" />
+    <path fill="#2f1c10" d="M32 33l3.2 2.8-3.2 2.6-3.2-2.6z" />
+    <path fill="none" stroke="#2f1c10" stroke-width="1.6" stroke-linecap="round" d="M32 38.4c-1.3 1.8-4 1.8-5.1 0M32 38.4c1.3 1.8 4 1.8 5.1 0" />
+  </symbol>
+
+  <symbol id="panda" viewBox="0 0 64 64">
+    <circle cx="15" cy="15" r="8" fill="#2b2b2b" />
+    <circle cx="49" cy="15" r="8" fill="#2b2b2b" />
+    <circle cx="32" cy="33" r="20" fill="#fdfdfd" />
+    <ellipse cx="23.5" cy="31" rx="6" ry="7" fill="#2b2b2b" />
+    <ellipse cx="40.5" cy="31" rx="6" ry="7" fill="#2b2b2b" />
+    <circle cx="24.4" cy="30" r="2.4" fill="#fff" />
+    <circle cx="41.4" cy="30" r="2.4" fill="#fff" />
+    <circle cx="24.4" cy="30.6" r="1.3" fill="#2b2b2b" />
+    <circle cx="41.4" cy="30.6" r="1.3" fill="#2b2b2b" />
+    <ellipse cx="32" cy="40" rx="4.4" ry="3.4" fill="#2b2b2b" />
+    <path fill="none" stroke="#2b2b2b" stroke-width="1.7" stroke-linecap="round" d="M32 43.4v3M32 46.4c-1.7 1.9-4.5 1.5-5.4-.3M32 46.4c1.7 1.9 4.5 1.5 5.4-.3" />
+  </symbol>
+
+  <symbol id="rabbit" viewBox="0 0 64 64">
+    <ellipse cx="23" cy="17" rx="5.4" ry="13" fill="#fdfdfd" />
+    <ellipse cx="41" cy="17" rx="5.4" ry="13" fill="#fdfdfd" />
+    <ellipse cx="23" cy="18" rx="2.6" ry="8" fill="#ffc0cb" />
+    <ellipse cx="41" cy="18" rx="2.6" ry="8" fill="#ffc0cb" />
+    <circle cx="32" cy="38" r="18" fill="#fdfdfd" />
+    <circle cx="25" cy="36" r="3" fill="#33252e" />
+    <circle cx="39" cy="36" r="3" fill="#33252e" />
+    <circle cx="26" cy="34.8" r="1.05" fill="#fff" />
+    <circle cx="40" cy="34.8" r="1.05" fill="#fff" />
+    <path fill="#ff9db1" d="M32 42l3 2.4-3 2.4-3-2.4z" />
+    <path fill="none" stroke="#33252e" stroke-width="1.5" stroke-linecap="round" d="M32 46.8c-1.3 1.7-3.9 1.7-5 0M32 46.8c1.3 1.7 3.9 1.7 5 0" />
+    <ellipse cx="19" cy="42" rx="3.6" ry="2.4" fill="#ffc0cb" opacity=".7" />
+    <ellipse cx="45" cy="42" rx="3.6" ry="2.4" fill="#ffc0cb" opacity=".7" />
+  </symbol>
+
+  <symbol id="bear" viewBox="0 0 64 64">
+    <circle cx="16" cy="18" r="8.4" fill="#8a5a3b" />
+    <circle cx="48" cy="18" r="8.4" fill="#8a5a3b" />
+    <circle cx="16" cy="18" r="4.6" fill="#d9a273" />
+    <circle cx="48" cy="18" r="4.6" fill="#d9a273" />
+    <circle cx="32" cy="34" r="19.5" fill="#a9714b" />
+    <ellipse cx="32" cy="40" rx="9" ry="7.4" fill="#d9a273" />
+    <circle cx="25" cy="31" r="3" fill="#2f1d12" />
+    <circle cx="39" cy="31" r="3" fill="#2f1d12" />
+    <circle cx="26.1" cy="29.9" r="1.05" fill="#fff" />
+    <circle cx="40.1" cy="29.9" r="1.05" fill="#fff" />
+    <ellipse cx="32" cy="38.4" rx="3.6" ry="2.6" fill="#2f1d12" />
+    <path fill="none" stroke="#2f1d12" stroke-width="1.6" stroke-linecap="round" d="M32 41v3M32 44c-1.5 1.8-4.2 1.8-5.4 0M32 44c1.5 1.8 4.2 1.8 5.4 0" />
+  </symbol>
+
+  <symbol id="owl" viewBox="0 0 64 64">
+    <path fill="#5b6fb5" d="M12 22L14 8l11 8z" />
+    <path fill="#5b6fb5" d="M52 22l-2-14-11 8z" />
+    <circle cx="32" cy="32" r="20" fill="#7b8fd0" />
+    <circle cx="24" cy="29" r="8" fill="#fdfdfd" />
+    <circle cx="40" cy="29" r="8" fill="#fdfdfd" />
+    <circle cx="24" cy="29" r="3.6" fill="#22252f" />
+    <circle cx="40" cy="29" r="3.6" fill="#22252f" />
+    <circle cx="25.2" cy="27.8" r="1.2" fill="#fff" />
+    <circle cx="41.2" cy="27.8" r="1.2" fill="#fff" />
+    <path fill="#f0a92c" d="M32 34l4 5h-8z" />
+    <path fill="none" stroke="#f0a92c" stroke-width="1.6" stroke-linecap="round" d="M22 44h20" />
+    <path fill="#4a5aa0" d="M22 52c0-5 4.5-8 10-8s10 3 10 8z" />
+  </symbol>
+
+  <symbol id="penguin" viewBox="0 0 64 64">
+    <ellipse cx="32" cy="34" rx="19" ry="23" fill="#2f3a4a" />
+    <ellipse cx="32" cy="38" rx="13" ry="16" fill="#fdfdfd" />
+    <circle cx="25.5" cy="28" r="3.4" fill="#fff" />
+    <circle cx="38.5" cy="28" r="3.4" fill="#fff" />
+    <circle cx="25.9" cy="28.4" r="1.9" fill="#1b2230" />
+    <circle cx="38.9" cy="28.4" r="1.9" fill="#1b2230" />
+    <path fill="#f0a92c" d="M32 33l6 4-6 3.4-6-3.4z" />
+    <ellipse cx="32" cy="54" rx="7" ry="4" fill="#f0a92c" />
+    <path fill="#e01b2e" d="M24 16c4-5 12-5 16 0 2 2.6.6 5-2 3.6-3.6-2-8.4-2-12 0-2.6 1.4-4-1-2-3.6z" />
+  </symbol>
+
+  <symbol id="smile" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="21" fill="#ffd166" />
+    <circle cx="24.5" cy="27" r="2.6" fill="#4a3410" />
+    <circle cx="39.5" cy="27" r="2.6" fill="#4a3410" />
+    <path fill="none" stroke="#4a3410" stroke-width="2.6" stroke-linecap="round" d="M20 36c2.6 5 8 8 12 8s9.4-3 12-8" />
+    <ellipse cx="16.5" cy="33" rx="3.4" ry="2.4" fill="#f4807f" opacity=".6" />
+    <ellipse cx="47.5" cy="33" rx="3.4" ry="2.4" fill="#f4807f" opacity=".6" />
+  </symbol>
+
+  <symbol id="heart-eyes" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="21" fill="#ff8fb1" />
+    <path fill="#e01b2e" d="M22 33c-4.4-5.6 3.6-11 6.6-5.4 3-5.6 11 0 6.6 5.4-1.9 2.4-4.8 5.4-6.6 7.2-1.8-1.8-4.7-4.8-6.6-7.2z" />
+    <path fill="#e01b2e" d="M32 33c-4.4-5.6 3.6-11 6.6-5.4 3-5.6 11 0 6.6 5.4-1.9 2.4-4.8 5.4-6.6 7.2-1.8-1.8-4.7-4.8-6.6-7.2z" />
+    <path fill="none" stroke="#a8314f" stroke-width="2.4" stroke-linecap="round" d="M21 44c3.4 4 7 6 11 6s7.6-2 11-6" />
+  </symbol>
+
+  <symbol id="wink" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="21" fill="#ffd166" />
+    <circle cx="24" cy="27" r="3" fill="#4a3410" />
+    <path fill="none" stroke="#4a3410" stroke-width="2.8" stroke-linecap="round" d="M36 26.5c2.6-2 5.8-2 8 0" />
+    <path fill="none" stroke="#4a3410" stroke-width="2.6" stroke-linecap="round" d="M21 37c2.8 5.2 8 8 11.6 8S41.4 42.2 44 37" />
+    <ellipse cx="16" cy="33" rx="3.4" ry="2.4" fill="#f4807f" opacity=".6" />
+    <ellipse cx="48" cy="33" rx="3.4" ry="2.4" fill="#f4807f" opacity=".6" />
+  </symbol>
+
+  <symbol id="thumbs-up" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="21" fill="#8fd6b6" />
+    <path fill="#2f7d5c" d="M22 30h5v16h-5z" />
+    <path fill="#2f7d5c" d="M29 46V30l7-13c1.6-2.8 5.4-1.6 5.4 1.4L40 27h6.6c2.4 0 4.2 2.2 3.6 4.5l-3.6 13c-.4 1.4-1.6 2.4-3 2.4H29z" />
+    <path fill="none" stroke="#1f5c44" stroke-width="1.6" stroke-linecap="round" d="M34 34h11M34 40h10" />
+  </symbol>
+
+  <symbol id="party" viewBox="0 0 64 64">
+    <path fill="#e01b2e" d="M32 10l4.6 10.4L48 21l-8 8.6 1.8 11.6L32 36l-9.8 5.2L24 29.6 16 21l11.4-.6z" />
+    <path fill="#f0a92c" d="M12 40l2.6 6 6 2.6-6 2.6L12 57l-2.6-5.8-6-2.6 6-2.6z" />
+    <path fill="#2e8fd6" d="M50 38l2 4.6 4.6 2-4.6 2-2 4.6-2-4.6-4.6-2 4.6-2z" />
+    <circle cx="14" cy="18" r="2.4" fill="#35c6a0" />
+    <circle cx="52" cy="18" r="2.4" fill="#35c6a0" />
+    <circle cx="30" cy="6" r="1.8" fill="#ffd166" />
+  </symbol>
+
+  <symbol id="rocket-cat" viewBox="0 0 64 64">
+    <path fill="#f6b93b" d="M32 4c8 5 12 13 12 22v10H20V26C20 17 24 9 32 4z" />
+    <path fill="#fff" d="M26 12c-2 4-3 8-3 13h18c0-5-1-9-3-13-3 2-9 2-12 0z" />
+    <path fill="#e01b2e" d="M20 28l-6 8v8h6z" />
+    <path fill="#e01b2e" d="M44 28l6 8v8h-6z" />
+    <circle cx="32" cy="30" r="7" fill="#f6b93b" />
+    <circle cx="29.4" cy="29.4" r="1.8" fill="#2b2118" />
+    <circle cx="34.6" cy="29.4" r="1.8" fill="#2b2118" />
+    <path fill="none" stroke="#2b2118" stroke-width="1.5" stroke-linecap="round" d="M29 34.6c1.6 1.6 4.4 1.6 6 0" />
+    <path fill="#f0a92c" d="M26 40c1 6 3 10 6 12 3-2 5-6 6-12z" />
+    <path fill="#e01b2e" d="M29 50c1 4 2 7 3 9 1-2 2-5 3-9z" />
+  </symbol>
+</svg>

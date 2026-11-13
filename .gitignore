@@ -1,0 +1,12 @@
+# Internal build inputs — not part of the published website.
+# SPEC.txt / tihuan.txt carry the client-side draft spec and the replacement
+# table, including the source values they replaced. They stay local.
+SPEC.txt
+tihuan.txt
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
